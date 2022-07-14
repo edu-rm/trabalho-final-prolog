@@ -1,0 +1,14 @@
+Instrumentos
+
+Violão -> 6 Cordas | acústico 
+Cavaquinho -> 4 Cordas | acústico |  !arco de madeira
+violino -> 4 Cordas | acústico | arco de madeira
+Guitarra -> 6 cordas | elétrica
+baixo -> 4 cordas | elétrico 
+
+piano -> possui teclas | !usa o ar pra produzir o som | !é elétrico
+teclado -> possui teclas | !usa o ar pra produzir o som | é elétrico
+orgão -> possui teclas | usa o ar pra produzir o som
+
+xilofone -> usa-se baquetas -> possui bolas nas pontas das baquetas
+bateria -> usa-se baquetas -> !possui bolas nas pontas das baquetas
